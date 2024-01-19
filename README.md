@@ -1,2 +1,1 @@
-# guessing-game
-# guessing-game
+A mobile game in which the user selects a number that the program must guess. Created in React Native for a Udemy course: https://www.udemy.com/course/react-native-the-practical-guide/learn/lecture/31197530?start=15#questions
